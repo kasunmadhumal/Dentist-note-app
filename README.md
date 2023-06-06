@@ -67,4 +67,9 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
 # Dentist-note-app
+
+![Screenshot from 2023-06-06 23-48-33](https://github.com/kasunmadhumal/Dentist-note-app/assets/73273550/97271e4c-1873-4af8-8e13-def00b58c742)
+![Screenshot from 2023-06-06 23-50-58](https://github.com/kasunmadhumal/Dentist-note-app/assets/73273550/245c357c-6523-4945-a471-3e4ef62c9ab6)
+![Screenshot from 2023-06-06 23-49-14](https://github.com/kasunmadhumal/Dentist-note-app/assets/73273550/8707e723-b3a8-432b-842d-1fda433415d6)
