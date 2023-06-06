@@ -1,7 +1,7 @@
 <template>
   <div>
-    <CardComponent />
-    <cardView2 />
+    <VueCard :value=value />
+<!--    <testing-card-component />-->
   </div>
 </template>
 
@@ -9,6 +9,11 @@
 
 export default {
   layout: 'default',
+   data(){
+    return{
+      value: 0
+    }
+   }
 
 }
 

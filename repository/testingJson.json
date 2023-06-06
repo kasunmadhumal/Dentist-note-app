@@ -1,5 +1,4 @@
-//add parent id and id values to json obeject
-let response = {
+{
   "id": 2990,
   "data": [
       {
@@ -16,7 +15,7 @@ let response = {
     "type": "text",
     "properties": {
       "name": "Tried crown on model",
-      "placeholder": null,
+      "placeholder": null
     }
     },
     {
@@ -24,8 +23,8 @@ let response = {
     "type": "option",
     "properties": {
       "name": "Good fit",
-      "placeholder": "Enter Text",
-     },
+      "placeholder": "Enter Text"
+     }
     },
     {
     "editable": true,
@@ -33,7 +32,7 @@ let response = {
     "properties": {
       "name": "Minor adjustments likely required",
       "customType": "custom_option",
-      "placeholder": "Enter Text",
+      "placeholder": "Enter Text"
     },
     "original": {"id": "4f453258-53c5-402b-bea2-2e3c6160a511", "pr": ["8d3c6a1a-f1ad-4c8d-be94-b4a2cfb98beb"]},
     "data": []
@@ -1117,6 +1116,6 @@ let response = {
       "isCreatedByUser": true
     },
     "original": {"id": "b64485e2-38f3-4789-afa0-b0c317a47462", "cl": [], "wr": []}
-  }],
+  }]
 
 }

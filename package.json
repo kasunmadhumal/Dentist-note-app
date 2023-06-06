@@ -9,12 +9,14 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/composition-api": "^0.33.1",
     "@tabler/core": "^1.0.0-beta19",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10"
+    "vue-template-compiler": "^2.7.10",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@nuxt/types": "~2.16.0"
